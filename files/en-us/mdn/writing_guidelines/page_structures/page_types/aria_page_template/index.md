@@ -68,6 +68,20 @@ The summary paragraph—start by naming the role or attribute and saying what it
 
 Include a complete description of the attribute or role.
 
+For attribute pages, add these sections after the description:
+
+## Values
+
+Describe the allowed values for the attribute.
+
+## Associated interfaces
+
+Link to the interfaces associated with the attribute. Remove this section if there are none.
+
+## Associated roles
+
+List the roles associated with the attribute.
+
 ### Associated ARIA roles, states, and properties
 
 - Name of associated roles
